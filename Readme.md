@@ -1,2 +1,2 @@
-Git test so fan! One
+Git test so fan!
 
